@@ -1,7 +1,7 @@
 
-  # Reciclagem com Integração Google Maps
+  # NeuroCompost
 
-  This is a code bundle for Reciclagem com Integração Google Maps. The original project is available at https://www.figma.com/design/W4Cefvn1uyldfA2yKw2o6d/Reciclagem-com-Integra%C3%A7%C3%A3o-Google-Maps.
+  Criado para otimizar o ciclo de vida dos resíduos não minerais, nosso site conecta mineradoras a uma rede especializada de empresas de reciclagem. Com uma plataforma intuitiva, ele gerencia a segregação, coleta e destinação de materiais como plásticos, pneus e eletrônicos, transformando passivos ambientais em ativos valiosos. Nosso foco é fornecer soluções eficientes e sustentáveis, garantindo que cada tonelada de resíduo seja rastreada e reciclada, contribuindo para uma operação mais limpa e responsável no setor de mineração.
 
   ## Running the code
 
